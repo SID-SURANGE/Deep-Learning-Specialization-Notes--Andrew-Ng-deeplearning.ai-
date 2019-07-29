@@ -1,5 +1,5 @@
 
-<h1> Notes for <i>*Deep Learning Specialization*</i> by deeplearning.ai and Andrew Ng </h1>
+<h1> Notes for <i>Deep Learning Specialization</i> by deeplearning.ai and Andrew Ng </h1>
 
 <br> 
 <h3>Courses covered in Specialization -</h3>
