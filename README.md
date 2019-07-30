@@ -23,4 +23,4 @@
 <li>Notes by Analytics vidya for this specialization course - https://www.analyticsvidhya.com/blog/2018/10/introduction-neural-networks-deep-learning/</li>
 <li>Best website for Research paper with code examples - https://paperswithcode.com/</li>
 <li>DataCamp Data science Cheatsheets - https://www.datacamp.com/community/data-science-cheatsheets</li></ul>
-<p> Some more content to be added soon</p> 
+<p> Some more content to be added </p> 
